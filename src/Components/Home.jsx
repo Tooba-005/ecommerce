@@ -8,7 +8,6 @@ const Home = () => {
   const [apidata]=useState(blogList)
   return ( 
     <>
-    <h2>hello world</h2>
     <div className="mt-1" style={{position:"relative"}}>
     <p style={{position:"absolute"}} className="text-white fs-3 mt-5 mx-5"><strong>Kurta</strong></p>
     <p className="text-white mt-5 mx-5 pt-5" style={{position:"absolute"}}>Large variety of Kurta from Pakistani brands like Khaadi, Sana Safinaz, Maria B, Polkadots and many others.</p>
