@@ -1,0 +1,17 @@
+.panel{
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+.links{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.bton{
+    margin-top: 40px;
+}
+.panel tr th{
+    background-color: #81d3ee;
+}
